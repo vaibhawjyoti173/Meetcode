@@ -1,0 +1,27 @@
+
+.nav-options {
+    margin : 0.1rem 1rem;
+}
+#navbar-main {
+    display: flex;
+    border:  1px solid #e0e0e0;
+    border-radius: 5px;
+    margin-top: 1rem;
+    padding: 0.2rem;
+    justify-content: left;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 74%;
+}
+
+.logo {
+    width : 3rem;
+    height : 3rem;
+    margin : 0.1rem 1rem;
+}
+
+.vertical-line {
+    border-left: 2px solid black;
+    height: 0.8rem;
+    margin: 0.7rem 0.4rem;
+}

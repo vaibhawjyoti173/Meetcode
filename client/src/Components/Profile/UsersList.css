@@ -1,0 +1,51 @@
+.users-list {
+    list-style-type: none;
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+h1 {
+  margin-top: 1rem;
+}
+  .user {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+
+  .list {
+    border-top: 1px solid #ccc;
+  }
+  
+  .user > div {
+    flex: 1;
+    padding: 5px;
+  }
+  
+  .header {
+    font-weight: bold;
+    background-color: gainsboro;
+    border-top: none;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .action {
+    text-align: left;
+  }
+  
+  .action button {
+    padding: 5px 10px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left:0;
+    margin-top: 0;
+  }
+  .action button:hover {
+    background-color: #cc0000;
+  }
+  

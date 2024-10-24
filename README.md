@@ -4,7 +4,7 @@ This repository contains the code for the MeetCode website. MeetCode is a platfo
 ## Installation
 - Clone the repository
 ```bash
-git clone https://github.com/devesh-dkp/meetcode.git
+git clone https://github.com/vaibhawjyoti173/Meetcode
 ```
 - Install the dependencies
 ```bash
@@ -32,5 +32,3 @@ The site has a login and signup tab.
 The site has a profile tab.
 The site has a tab for submitting a problem.
 
-Demonstration link:         
-https://youtu.be/CqZrbnT2K28
